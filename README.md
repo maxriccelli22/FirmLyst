@@ -1,4 +1,3 @@
-# FirmLyst
 **Insight. Placement. Clarity.**  
 A tool to explore which law schools are most represented at major law firms, broken down by office and attorney title.
 
